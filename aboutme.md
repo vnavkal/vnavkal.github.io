@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: since you asked!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a data scientist living in the Bay area.  I like to think about math, do Ashtanga yoga, and listen to classical music.  There is a lovely Mahler song, _Urlicht_, that summarizes my quest pretty well:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<blockquote>
+<p>O Röschen rot!</p>
 
-What else do you need?
+<p>Der Mensch liegt in größter Not!<br>
+Der Mensch liegt in größter Pein!<br>
+Je lieber möcht’ ich im Himmel sein!</p>
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p>Da kam ich auf einen breiten Weg.<br>
+Da kam ein Engelein und wollt mich abweisen.<br>
+Ach nein! Ich ließ mich nicht abweisen!<br>
+Ach nein! Ich ließ mich nicht abweisen:<br>
+Ich bin von Gott, und will wieder zu Gott!<br>
+Der liebe Gott wird mir ein Lichtchen geben,<br>
+wird leuchten mir bis in das ewig selig Leben!</p>
+</blockquote>
